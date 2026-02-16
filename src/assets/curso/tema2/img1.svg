@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="190" height="143.646" viewBox="0 0 190 143.646">
   <g id="Grupo_1112369" data-name="Grupo 1112369" transform="translate(-1230 -400.633)">
-    <rect id="Rectángulo_405201" data-name="Rectángulo 405201" width="190" height="143.646" rx="12" transform="translate(1230 400.633)" fill="#feead4"/>
+    <rect id="Rectángulo_405201" data-name="Rectángulo 405201" width="190" height="143.646" rx="12" transform="translate(1230 400.633)" fill="#98d1d1"/>
     <g id="presupuesto" transform="translate(1288.345 436.272)">
       <path id="Trazado_903460" data-name="Trazado 903460" d="M148.546,20.3V63c0,.085,0,.17-.006.256a5.513,5.513,0,0,1-5.508,5.256h-31A5.513,5.513,0,0,1,106.523,63V13.557a5.505,5.505,0,0,1,5.514-5.513h24.621a5.5,5.5,0,0,1,2.394.549c1.489.717,1.909,1.623,4.586,4.36,3.079,3.344,3.815,3.686,4.442,5.134A5.453,5.453,0,0,1,148.546,20.3Z" transform="translate(-90.995 -6.907)" fill="#ffc477"/>
       <path id="Trazado_903461" data-name="Trazado 903461" d="M174.445,20.3V63c0,.085,0,.17-.006.256a5.531,5.531,0,0,1-1.245.141h-31a5.513,5.513,0,0,1-5.514-5.512V8.441c0-.087,0-.172.006-.257a5.538,5.538,0,0,1,1.245-.141h24.621a5.522,5.522,0,0,1,4.029,1.751l2.952,3.158,3.379,3.536a5.548,5.548,0,0,1,1.529,3.808Z" transform="translate(-116.894 -6.906)" fill="#ffdaaa"/>

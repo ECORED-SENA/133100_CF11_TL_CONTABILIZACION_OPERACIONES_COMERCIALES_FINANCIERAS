@@ -79,7 +79,7 @@
         .px-5
           .row.justify-content-center.mb-4
             .col-lg-8(data-aos="fade-down")
-              .p-4.bg-c13
+              .p-4.bg-c2
                 .row.align-items-center
                   .col-md-auto.mb-3.mb-md-0
                     figure
@@ -315,13 +315,13 @@
           p.mb-4(data-aos="fade-down") En el ámbito laboral, existen responsabilidades legales que garantizan tanto el bienestar del trabajador como el sostenimiento de entidades clave para el desarrollo social. Dos de estos pilares son la #[b seguridad social y los aportes parafiscales].
           .row.mb-4
             .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
-              .p-4.bg-c2.h-100
+              .p-4.bg-c13.h-100
                 figure.mb-3
                   img(src="@/assets/curso/tema2/img5.png", alt="", style="width: 480px").m-auto
                 p #[b Seguridad social]
                 p.mb-0 Es el derecho que tiene toda persona natural, y en especial todo trabajador, a que se le garantice la seguridad social integral,  entendida ésta como la cobertura en salud, riesgos de invalidez, vejez y muerte, igualmente cobertura en accidentes de trabajo. (Gerencie, 2021a).
             .col-lg-6(data-aos="fade-left")
-              .p-4.bg-c23.h-100
+              .p-4.bg-c18.h-100
                 figure.mb-3
                   img(src="@/assets/curso/tema2/img6.png", alt="", style="width: 480px").m-auto
                 p #[b Parafiscales]
@@ -428,7 +428,7 @@
         .px-5
           .row.justify-content-center.mb-5
             .col-md-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
-              .p-4.bg-c13
+              .p-4.bg-c21
                 figure.mb-3
                   img(src="@/assets/curso/tema2/img18.svg", alt="", style="width: 150px").m-auto
                 p #[b ¿Quién debe practicar retención en la fuente por ingresos laborales?]
@@ -549,7 +549,7 @@
     p.mb-4(data-aos="fade-right") #[b El salario integral es regulado por el artículo 132 del CST, así:]
     .row.justify-content-center.mb-4
       .col-lg-10(data-aos="fade-down")
-        .p-4.bg-c23
+        .p-4.bg-c13
           .bloque-texto-b.color-primario.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
@@ -570,7 +570,7 @@
       .col-lg-auto.mb-4.mb-lg-0.pe-lg-0(data-aos="fade-right")
         figure
           img(src="@/assets/curso/tema2/img20.svg", alt="", style="width: 460px").m-auto
-      .col-lg.bg-c7(data-aos="fade-left")
+      .col-lg.bg-c4(data-aos="fade-left")
         .row.h-100.align-items-center
           .col-12
             .p-4
