@@ -194,10 +194,10 @@ export default {
     {
       termino: 'Provisión',
       significado:
-        'valores que deben ser reconocidos, hoy, con el propósito de ser desembolsados en el futuro.',
+        'valores que deben ser reconocidos hoy, con el propósito de ser desembolsados en el futuro.',
     },
     {
-      termino: 'Ingreso Base de Cotización IBC',
+      termino: 'Ingreso Base de Cotización (IBC)',
       significado:
         'se utiliza para calcular los aportes a seguridad social y parafiscales.',
     },
@@ -350,9 +350,9 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'xyz xyz',
+          nombre: 'Claudia Johanna Gomez Perez',
           cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          centro: ' Centro Agroturístico- Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermudez Jaimes',

@@ -103,51 +103,51 @@
         .p-4.bg-c7
           ul.lista-ul--color.mb-0
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Título de la política contable (nombre del tema que es tratado en el documento).
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Historia del documento (nombre del documento, creado por, responsable de la actualización del documento, responsable del control del documento, aprobado por, fecha de aprobación).
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Control de versiones (Versión No., fecha de vigencia, aprobación, comentarios).
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Tabla de contenido.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Objetivo de la política (puede ser tomado de las NIIF como guía).
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Alcance de la política contable (en qué casos aplica esta política contable y en qué casos no aplica).
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Responsabilidades (preparación y mantenimiento en el tiempo de la política contable, preferiblemente debe ser un cargo y no una persona).
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Normas aplicables, NIIF aplicable (normas legales locales que deben ser observadas).
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Definiciones (definiciones principales de los temas que serán tratados en la política contable).
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Principio de reconocimiento (normalmente se toma el principio de reconocimiento establecido en la NIIF correspondiente).
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Medición inicial y medición posterior (alternativa seleccionada por la entidad o la que debe ser seleccionada por exigencia de las NIIF).
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Revelaciones (las establecidas por las NIIF).
     Separador
@@ -167,7 +167,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img6.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p De acuerdo con el CST en el Artículo 22, “Contrato de trabajo es aquel por el cual una persona natural se obliga a prestar un servicio personal a otra persona natural o jurídica, bajo la continuada dependencia o subordinación de la segunda y mediante la remuneración o salario” (Secretaría del Senado, 2020, art. 22).
+        p De acuerdo con el CST, en el Artículo 22, “Contrato de trabajo es aquel por el cual una persona natural se obliga a prestar un servicio personal a otra persona natural o jurídica, bajo la continuada dependencia o subordinación de la segunda y mediante la remuneración o salario” (Secretaría del Senado, 2020, art. 22).
         br
         br
         p.mb-0 Es importante resaltar que se debe profundizar el tema relacionado en el CST.
@@ -444,7 +444,7 @@
       h2 1.3 Deberes y derechos de empleado y empleador
     .row.mb-4
       .col-lg-7.order-2.order-lg-1(data-aos="fade-right")
-        p En la relación contractual, a diario se presentan diversas situaciones de inconformidad que afectan a las partes interesadas en la ejecución de un contrato de trabajo; es por ello que se hace importante resaltar que la ley protege a cada una de las personas que intervienen en un conflicto laboral. Por tal motivo se invita a profundizar sobre los deberes y derechos, tanto para el empleador como para el empleado.
+        p En la relación contractual, a diario se presentan diversas situaciones de inconformidad que afectan a las partes interesadas en la ejecución de un contrato de trabajo; es por ello que se hace importante resaltar que la ley protege a cada una de las personas que intervienen en un conflicto laboral. Por tal motivo, se invita a profundizar sobre los deberes y derechos, tanto para el empleador como para el empleado.
         .row
           .col-12
             .p-4.bg-c16
@@ -463,15 +463,15 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Poner a disposición de los trabajadores, salvo estipulación en contrario, los instrumentos adecuados y las materias primas necesarias para la realización de las labores.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Procurar a los trabajadores locales apropiados y elementos adecuados de protección contra los accidentes y enfermedades profesionales, de manera que se garanticen razonablemente la seguridad y la salud.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Prestar inmediatamente los primeros auxilios en caso de accidente o de enfermedad. A este efecto, en todo establecimiento, taller o fábrica que ocupe habitualmente más de diez (10) trabajadores, se deberá mantener lo necesario según reglamentación de las autoridades sanitarias.
                 .col-lg-4
@@ -481,11 +481,11 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Pagar la remuneración pactada en las condiciones, períodos y lugares convenidos.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Guardar absoluto respeto a la dignidad personal del trabajador, a sus creencias y sentimientos.
                 .col-lg-4
@@ -495,9 +495,9 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
-                      p.mb-0 Dar al trabajador que lo solicite, a la expiración de contrato, una certificación en que consten el tiempo de servicio, la índole de la labor y el salario devengado; e igualmente, si el trabajador lo solicita, hacerle practicar examen sanitario y darle certificación sobre el particular, si al ingreso o durante la permanencia en el trabajo hubiere sido sometido a examen médico. Se considera que el trabajador, por su culpa, elude, dificulta o dilata el examen, cuando transcurridos cinco (5) días a partir de su retiro, no se presenta donde el médico respectivo para la práctica del examen, a pesar de haber recibido la orden correspondiente.
+                      p.mb-0 Dar al trabajador que lo solicite, a la expiración deL contrato, una certificación en que consten el tiempo de servicio, la índole de la labor y el salario devengado; e igualmente, si el trabajador lo solicita, hacerle practicar examen sanitario y darle certificación sobre el particular, si al ingreso o durante la permanencia en el trabajo hubiere sido sometido a examen médico. Se considera que el trabajador, por su culpa, elude, dificulta o dilata el examen cuando, transcurridos cinco (5) días a partir de su retiro, no se presenta donde el médico respectivo para la práctica del examen, a pesar de haber recibido la orden correspondiente.
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img14.png", alt="", style="width: 400px").m-auto
@@ -505,9 +505,9 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
-                      p.mb-0 Pagar al trabajador los gastos razonables de venida y de regreso, si para prestar sus servicios lo hizo cambiar de residencia, salvo si la terminación del contrato se origina por culpa o voluntad del trabajador. Si el trabajador prefiere radicarse en otro lugar, el empleador le debe costear su traslado hasta la concurrencia de los gastos que demandaría su regreso al lugar donde residía anteriormente. En los gastos de traslado del trabajador, se entienden comprendidos los de los familiares que con el convivieren.
+                      p.mb-0 Pagar al trabajador los gastos razonables de venida y de regreso, si para prestar sus servicios lo hizo cambiar de residencia, salvo si la terminación del contrato se origina por culpa o voluntad del trabajador. Si el trabajador prefiere radicarse en otro lugar, el empleador le debe costear su traslado hasta la concurrencia de los gastos que demandaría su regreso al lugar donde residía anteriormente. En los gastos de traslado del trabajador, se entienden comprendidos los de los familiares que con él convivieren.
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img15.png", alt="", style="width: 400px").m-auto
@@ -515,11 +515,11 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Cumplir el reglamento y mantener el orden, la moralidad y el respeto a las leyes.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Conceder al trabajador, en caso de fallecimiento de su cónyuge, compañero o compañera permanente o de un familiar hasta el grado segundo de consanguinidad, primero de afinidad y primero civil, una licencia remunerada por luto de cinco (5) días hábiles, cualquiera que sea su modalidad de contratación o de vinculación laboral. La grave calamidad doméstica no incluye la licencia por luto que trata este numeral. Este hecho deberá demostrarse mediante documento expedido por la autoridad competente, dentro de los treinta (30) días siguientes a su ocurrencia.
                 .col-lg-4
@@ -529,7 +529,7 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Conceder en forma oportuna a la trabajadora en estado de embarazo la licencia remunerada consagrada en el numeral 1 del artículo 236, de forma tal que empiece a disfrutarla de manera obligatoria una (1) semana antes o dos (2) semanas antes de la fecha probable del parto, según decisión de la futura madre conforme al certificado médico a que se refiere el numeral 3 del citado artículo 236. (CST, 2020, art. 57 párr. 1-11).
                 .col-lg-4
@@ -545,11 +545,11 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Realizar personalmente la labor, en los términos estipulados; observar los preceptos del reglamento y acatar y cumplir las órdenes e instrucciones que de modo particular le impartan el empleador o sus representantes, según el orden jerárquico establecido.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 No comunicar con terceros, salvo la autorización expresa, las informaciones que tenga sobre su trabajo, especialmente sobre las cosas que sean de naturaleza reservada o cuya divulgación pueda ocasionar perjuicios al empleador, lo que no obsta para denunciar delitos comunes o violaciones del contrato o de las normas legales del trabajo ante las autoridades competentes.
                 .col-lg-4
@@ -559,15 +559,15 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Conservar y restituir en buen estado, salvo el deterioro natural, los instrumentos y útiles que le hayan sido facilitados y las materias primas sobrantes.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Guardar rigurosamente la moral en las relaciones con sus superiores y compañeros.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Comunicar oportunamente al empleador las observaciones que estime conducentes a evitarle daños y perjuicios.
                 .col-lg-4
@@ -577,15 +577,15 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Prestar la colaboración posible en casos de siniestro o de riesgo inminente que afecten o amenacen las personas o cosas de la empresa o establecimiento.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Observar con suma diligencia y cuidado las instrucciones y órdenes preventivas de accidentes o de enfermedades profesionales.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 La trabajadora en estado de embarazo debe empezar a disfrutar la licencia remunerada consagrada en el numeral 1 del Artículo 236, al menos una semana antes de la fecha probable del parto. (CST, 2020, art. 58 párr. 1-8).
                 .col-lg-4
@@ -609,35 +609,35 @@
         .p-4.bg-c7
           ul.lista-ul--color.mb-0
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Por muerte del trabajador.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Por mutuo consentimiento.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Por expiración del plazo fijo pactado.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Por terminación de la obra o labor contratada.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Por liquidación o clausura definitiva de la empresa o establecimiento.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Por suspensión de actividades por parte del empleador durante más de ciento veinte (120) días.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Por sentencia ejecutoriada.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Por no regresar el trabajador a su empleo, al desaparecer las causas de la suspensión del contrato. (CST, 2020, párr. 1).
       .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
@@ -653,15 +653,15 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 El haber sufrido engaño por parte del trabajador, mediante la presentación de certificados falsos para su admisión o tendientes a obtener un provecho indebido.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Todo acto de violencia, injuria, malos tratamientos o grave indisciplina en que incurra el trabajador en sus labores, contra el empleador, los miembros de su familia, el personal directivo o los compañeros de trabajo.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Todo acto grave de violencia, injuria o malos tratamientos en que incurra el trabajador fuera del servicio, en contra del empleador, de los miembros de su familia o de sus representantes y socios, jefes de taller, vigilantes o celadores.
                 .col-lg-4
@@ -671,15 +671,15 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Todo daño material causado intencionalmente a los edificios, obras, maquinarias y materias primas, instrumentos y demás objetos relacionados con el trabajo, y toda grave negligencia que ponga en peligro la seguridad de las personas o de las cosas.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Todo acto inmoral o delictuoso que el trabajador cometa en el taller, establecimiento o lugar de trabajo o en el desempeño de sus labores.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Cualquier violación grave de las obligaciones o prohibiciones especiales que incumben al trabajador de acuerdo con los artículos 58 y 60 del CST, o cualquier falta grave calificada como tal en pactos o convenciones colectivas, fallos arbitrales, contratos individuales o reglamentos.
                 .col-lg-4
@@ -689,15 +689,15 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 La detención preventiva del trabajador por más de treinta (30) días, a menos que posteriormente sea absuelto; o el arresto correccional que exceda de ocho (8) días, o aún por tiempo menor, cuando la causa de la sanción sea suficiente por sí misma para justificar la extinción del contrato.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 El que el trabajador revele los secretos técnicos o comerciales o dé a conocer asuntos de carácter reservado, con perjuicio de la empresa.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 El deficiente rendimiento en el trabajo en relación con la capacidad del trabajador y con el rendimiento promedio en labores análogas, cuando no se corrija en un plazo razonable a pesar del requerimiento del empleador.
                 .col-lg-4
@@ -707,19 +707,19 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 La sistemática inejecución, sin razones válidas, por parte del trabajador, de las obligaciones convencionales o legales.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Todo vicio del trabajador que perturbe la disciplina del establecimiento.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 La renuencia sistemática del trabajador a aceptar las medidas preventivas, profilácticas o curativas, prescritas por el médico del empleador o por las autoridades para evitar enfermedades o accidentes.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 La ineptitud del trabajador para realizar la labor encomendada.
                 .col-lg-4
@@ -729,11 +729,11 @@
                 .col-lg-7.mb-4.mb-lg-0
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 El reconocimiento al trabajador de la pensión de la jubilación o invalidez estando al servicio de la empresa.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 La enfermedad contagiosa o crónica del trabajador, que no tenga carácter de profesional, así como otra enfermedad o lesión que lo incapacite para el trabajo, cuya curación no haya sido posible durante ciento ochenta (180) días. El despido por esta causa no podrá efectuarse sino al vencimiento de dicho lapso y no exime al empleador de las prestaciones e indemnizaciones legales y convencionales derivadas de la enfermedad. (CST, 2020, art. 62 párr. 1-15).
                 .col-lg-4

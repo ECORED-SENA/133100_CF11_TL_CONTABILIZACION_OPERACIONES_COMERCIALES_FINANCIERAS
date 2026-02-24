@@ -43,7 +43,7 @@
               .p-4.bg-c11
                 figure.mb-3
                   img(src='@/assets/curso/tema2/img4.svg', alt='', style="width: 150px").m-auto
-                p.mb-0 los beneficios post-empleo son beneficios a los empleados (diferentes de las indemnizaciones por cese y beneficios a los empleados a corto plazo) que se pagan después de completar su periodo de empleo.
+                p.mb-0 Los beneficios post-empleo son beneficios a los empleados (diferentes de las indemnizaciones por cese y beneficios a los empleados a corto plazo) que se pagan después de completar su periodo de empleo.
             .col-md-6.col-lg-3
               .p-4.bg-c11
                 figure.mb-3
@@ -185,19 +185,19 @@
               .p-4.bg-c21
                 ul.lista-ul--color.mb-0
                   li.d-flex
-                    i.fas.fa-circle-check(style="color: #5B39A6")
+                    i.fas.fa-circle-check(style="color: #008D8E")
                     |
                     p.mb-0 HEOD: recargo 25 %, su liquidación V.H.O (valor hora ordinaria) x 125 %.
                   li.d-flex
-                    i.fas.fa-circle-check(style="color: #5B39A6")
+                    i.fas.fa-circle-check(style="color: #008D8E")
                     |
                     p.mb-0 HEON: recargo 75 %, su liquidación V.H.O (valor hora ordinaria) x 175 %.
                   li.d-flex
-                    i.fas.fa-circle-check(style="color: #5B39A6")
+                    i.fas.fa-circle-check(style="color: #008D8E")
                     |
                     p.mb-0 HEDD: recargo 100 %, su liquidación V.H.O (valor hora ordinaria) x 200 %.
                   li.d-flex
-                    i.fas.fa-circle-check(style="color: #5B39A6")
+                    i.fas.fa-circle-check(style="color: #008D8E")
                     |
                     p.mb-0 HEDN: recargo 150 %, su liquidación V.H.O (valor hora ordinaria) x 250 %.
     p.mb-4(data-aos="fade-right") V.H.O. Corresponde al valor ordinario de la hora, se determina dividiendo el salario mensual entre 240, que son las horas que deben trabajar de acuerdo con la jornada laboral máxima legal, que es de 8 horas, y como el mes para efectos laborales se entiende 30 días, tenemos que 30 x 8 = 240. (Gerencie, 2020).
@@ -226,7 +226,7 @@
     #t_2_3
     .titulo-segundo.color-acento-contenido
       h2 2.3 Devengado
-    p.mb-4(data-aos="fade-right") Representa todas las sumas que el empleador paga al trabajador, de acuerdo con la legislación laboral vigente, y está conformado por los diferentes conceptos que constituyen el salario; este valor está compuesto por el salario básico, horas extras, recargos diurnos y nocturnos, dominicales, festivos, comisiones, auxilio de transporte entre otros.
+    p.mb-4(data-aos="fade-right") Representa todas las sumas que el empleador paga al trabajador, de acuerdo con la legislación laboral vigente, y está conformado por los diferentes conceptos que constituyen el salario; este valor está compuesto por el salario básico, horas extras, recargos diurnos y nocturnos, dominicales, festivos, comisiones, auxilio de transporte, entre otros.
     .row.mb-0.mb-lg-4
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         .p-4.bg-c22
@@ -246,7 +246,7 @@
             .col
               p #[b Ejemplo 2]
               p.mb-0 #[b Auxilio de transporte devengado:] sí un trabajador inicia a laborar el día 11 de marzo, con un auxilio de transporte, según la ley $102.854, el valor devengado en el mes corresponde a $68.569 (20 días).
-    p.mb-0(data-aos="fade-down") Condición para reconocer el auxilio de transporte; se debe pagar a los trabajadores que devenguen hasta dos salarios mínimos mensuales.
+    p.mb-0(data-aos="fade-down") Condición para reconocer el auxilio de transporte: se debe pagar a los trabajadores que devenguen hasta dos salarios mínimos mensuales.
     Separador
     #t_2_4
     .titulo-segundo.color-acento-contenido
@@ -261,39 +261,39 @@
           p A continuación, se relacionan los principales conceptos asociados al descuento para el trabajador, los cuales se establecen desde la norma laboral colombiana, atendiendo así:
           ul.lista-ul--color.mb-0
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Aportes a salud 4 %.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Aportes a pensión 4 %.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Aportes a fondo de solidaridad pensional; el porcentaje depende del valor devengado y comienza desde 1 % para los trabajadores que devenguen en el periodo cuatro o más salarios mínimos legales vigentes.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Cuotas sindicales.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Aportes a cooperativas.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Embargos judiciales.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Cuotas o créditos a entidades financieras “libranza”.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Deudas del trabajador con la entidad o empresa.
             li.d-flex
-              i.fas.fa-circle-check(style="color: #5B39A6")
+              i.fas.fa-circle-check(style="color: #008D8E")
               |
               p.mb-0 Retención en la fuente.
     .row.mb-4.ms-0
@@ -319,13 +319,13 @@
                 figure.mb-3
                   img(src="@/assets/curso/tema2/img5.png", alt="", style="width: 480px").m-auto
                 p #[b Seguridad social]
-                p.mb-0 Es el derecho que tiene toda persona natural, y en especial todo trabajador, a que se le garantice la seguridad social integral,  entendida ésta como la cobertura en salud, riesgos de invalidez, vejez y muerte, igualmente cobertura en accidentes de trabajo. (Gerencie, 2021a).
+                p.mb-0 Es el derecho que tiene toda persona natural, y en especial todo trabajador, a que se le garantice la seguridad social integral,  entendida esta como la cobertura en salud, riesgos de invalidez, vejez y muerte, igualmente cobertura en accidentes de trabajo. (Gerencie, 2021a).
             .col-lg-6(data-aos="fade-left")
               .p-4.bg-c18.h-100
                 figure.mb-3
                   img(src="@/assets/curso/tema2/img6.png", alt="", style="width: 480px").m-auto
                 p #[b Parafiscales]
-                p.mb-0 Los aportes parafiscales son contribuciones de carácter obligatorio impuestas por la ley en cabeza de los empleadores, las cuales se determinan sobre la base gravable de la nómina total de trabajadores y que beneficia no solo a estos, sino también al sostenimiento del ICBF, el SENA y las Cajas de Compensación Familiar. (CAFASUR, 2018).
+                p.mb-0 Los aportes parafiscales son contribuciones de carácter obligatorio impuestas por la ley en cabeza de los empleadores, las cuales se determinan sobre la base gravable de la nómina total de trabajadores y que benefician no solo a estos, sino también al sostenimiento del ICBF, el SENA y las Cajas de Compensación Familiar. (CAFASUR, 2018).
           .row.mb-4
             .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
               figure
@@ -393,7 +393,7 @@
                 td 2 %
                 td 0 %
                 td 2 %
-    p.mb-0(data-aos="fade-down") *ARL: La cotización de ARL varía según el riesgo a que se exponga cada trabajador y es pagada en su totalidad por el empleador. Los aportes varían entre un 0,348 % para el nivel I y 8,7 % para el nivel V de riesgo. La tarifa más común es del 0,522 %.
+    p.mb-0(data-aos="fade-down") *ARL: La cotización de ARL varía según el riesgo al que se exponga cada trabajador y es pagada en su totalidad por el empleador. Los aportes varían entre un 0,348 % para el nivel I y un 8,7 % para el nivel V de riesgo. La tarifa más común es del 0,522 %.
     Separador
     #t_2_6
     .titulo-segundo.color-acento-contenido
@@ -428,13 +428,13 @@
         .px-5
           .row.justify-content-center.mb-5
             .col-md-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
-              .p-4.bg-c21
+              .p-4.bg-c21.h-100.w-100
                 figure.mb-3
                   img(src="@/assets/curso/tema2/img18.svg", alt="", style="width: 150px").m-auto
                 p #[b ¿Quién debe practicar retención en la fuente por ingresos laborales?]
                 p.mb-0 La retención en la fuente por salarios debe aplicarla toda persona natural o jurídica que haga pagos laborales.
             .col-md-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
-              .p-4.bg-c23
+              .p-4.bg-c23.h-100.w-100
                 figure.mb-3
                   img(src="@/assets/curso/tema2/img19.svg", alt="", style="width: 150px").m-auto
                 p #[b ¿A cuáles trabajadores se les realiza retención en la fuente?]
@@ -544,8 +544,8 @@
     Separador
     #t_2_7
     .titulo-segundo.color-acento-contenido
-      h2 2.7 Salario integral
-    p(data-aos="fade-right") Es una forma de remuneración que incluye prestaciones sociales, recargos nocturnos, dominical y festivo, y el trabajo extra, es decir, integra todos los conceptos en uno solo, no incluye vacaciones. (Gerencie, 2021c).
+      h2 2.7 Retenciones a salarios
+    p(data-aos="fade-right") Es una forma de remuneración que incluye prestaciones sociales, recargos nocturnos, dominical y festivo, y el trabajo extra, es decir, integra todos los conceptos en uno solo; no incluye vacaciones. (Gerencie, 2021c).
     p.mb-4(data-aos="fade-right") #[b El salario integral es regulado por el artículo 132 del CST, así:]
     .row.justify-content-center.mb-4
       .col-lg-10(data-aos="fade-down")
@@ -577,21 +577,21 @@
               p #[b Características del salario integral:]
               ul.lista-ul--color.mb-0
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
                   p.mb-0 Contrato por escrito.
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
                   p.mb-0 Compuesto, mínimo, por 10 salarios mínimos legales mensuales, más 30 % adicional correspondiente a prestaciones sociales.
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
                   p.mb-0 Vacaciones deben ser pagadas, cuando se tenga el derecho.
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
-                  p.mb-0 Cotizar a la seguridad social y aportes parafiscales sobre el 70 % (Salud, Pensión, ARL, SENA, ICBF y Caja de compensación).
+                  p.mb-0 Cotizar a la seguridad social y aportes parafiscales sobre el 70 % (Salud, Pensión, ARL, SENA, ICBF y caja de compensación).
     Separador
     #t_2_8
     .titulo-segundo.color-acento-contenido
@@ -607,46 +607,46 @@
             .p-4
               ul.lista-ul--color.mb-0
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
                   p.mb-0 Modificaciones contractuales.
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
                   p.mb-0 Descuentos legales.
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
                   p.mb-0 Descuentos voluntarios.
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
                   p.mb-0 Sanciones.
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
                   p.mb-0 Nuevos ingresos.
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
                   p.mb-0 Despidos o retiros.
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
                   p.mb-0 Licencias.
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
                   p.mb-0 Trabajo extra.
                 li.d-flex
-                  i.fas.fa-circle-check(style="color: #5B39A6")
+                  i.fas.fa-circle-check(style="color: #008D8E")
                   |
                   p.mb-0 Bonificaciones, comisiones, entre otros.
     Separador
     #t_2_9
     .titulo-segundo.color-acento-contenido
       h2 2.9 Liquidación de nómina
-    p.mb-4(data-aos="fade-down") Proceso mediante el cual se determina el valor a pagar por concepto de: salarios, prestaciones sociales, seguridad social y parafiscales, dependiendo la periodicidad en cada entidad (semanal, quincenal o mensual).
+    p.mb-4(data-aos="fade-down") Proceso mediante el cual se determina el valor a pagar por concepto de: salarios, prestaciones sociales, seguridad social y parafiscales, dependiendo de la periodicidad en cada entidad (semanal, quincenal o mensual).
     .row.mb-5
       .col-lg-7.order-2.order-lg-1(data-aos="fade-right")
         .p-4.bg-c7
@@ -656,7 +656,7 @@
               .lista-ol--cuadro__vineta.v--green
                 span 1
               |
-              p.mb-0 Planilla de novedades del periodo (horas extras, recargos, bonificaciones, comisiones, entre otras.).
+              p.mb-0 Planilla de novedades del periodo (horas extras, recargos, bonificaciones, comisiones, entre otras.
             li.d-flex
               .lista-ol--cuadro__vineta.v--green
                 span 2
@@ -707,18 +707,18 @@
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-center.my-lg-4
                 .col-lg-7.mb-4.mb-lg-0
-                  p #[b Devengado.] Se debe liquidar y relacionar cada concepto por separado correspondiente a lo ganado y al tiempo laborado.
+                  p #[b Devengado.] Se debe liquidar y relacionar cada concepto por separado, correspondiente a lo ganado y al tiempo laborado.
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Sueldo básico devengado = sueldo básico concertado entre las partes dividido entre 30 y multiplicado por días trabajados.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Auxilio de transporte devengado = auxilio de transporte vigente dividido entre 30 y multiplicado por días trabajados.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Demás conceptos liquidados previamente.
                 .col-lg-4
@@ -726,26 +726,26 @@
                     img(src="@/assets/curso/tema2/img11.png", alt="", style="width: 400px").m-auto
               .row.justify-content-center.align-items-center.my-lg-4
                 .col-11
-                  p #[b Deducciones.] Se debe liquidar y relacionar cada concepto por separado correspondiente a lo descontado. (Salud, Pensión, Retención en la fuente, otros descuentos).
+                  p #[b Deducciones.] Se debe liquidar y relacionar cada concepto por separado correspondiente a lo descontado. (salud, pensión, Retención en la fuente, otros descuentos).
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Salud = Ingreso base de cotización “IBC” (total devengado menos auxilio de transporte) multiplicado por porcentaje vigente para el trabajador (4 %, 2020).
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Pensión = Ingreso base de cotización “IBC” (total devengado menos auxilio de transporte) multiplicado por porcentaje vigente para el trabajador (4 %, 2020).
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Fondo de solidaridad pensional = Ingreso base de cotización “IBC” (total devengado menos auxilio de transporte) multiplicado por porcentaje vigente para el trabajador, a partir de 4 salarios mínimos vigentes.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Retención en la fuente = Según previa liquidación.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Otros.
               .row.justify-content-center.align-items-center.my-lg-4
@@ -759,27 +759,27 @@
                   p #[b Aportes parafiscales y seguridad social.] Teniendo en cuenta el Ingreso Base de Cotización “IBC” se calcularán los siguientes aportes que debe realizar el empleador:
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 SENA: 2 % (Revisar exoneración).
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 ICBF: 3 % (Revisar exoneración).
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Caja de compensación: 4 %.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Salud: 8.5 % (Revisar exoneración).
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 ARL: Según el riesgo de cada trabajador.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Pensión: 12 %.
                 .col-lg-4
@@ -790,19 +790,19 @@
                   p #[b Prestaciones sociales.] Teniendo en cuenta el total devengado de cada trabajador, se liquidará el valor de la provisión a cada una de las prestaciones o beneficios a empleados.
                   ul.lista-ul--color.mb-0
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Cesantías = Total devengado x 8.33 %.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Intereses sobre cesantías = Total devengado x 1 %.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Prima de servicios = Total devengado x 8.33 %.
                     li.d-flex
-                      i.fas.fa-circle-check(style="color: #5B39A6")
+                      i.fas.fa-circle-check(style="color: #008D8E")
                       |
                       p.mb-0 Vacaciones = Total devengado x 4.17 %.
                 .col-lg-4

@@ -17,7 +17,7 @@
               .row
                 .col-12
                   .p-4.bg-c2
-                    p.mb-0 #[b Nota aclaratoria:] las tablas que se toman como referencia en los ejemplos en cada uno de los temas desarrollados, elaboradas mediante el programa Excel, son derivadas de los mismos, por lo tanto, no se numeran y la elaboración es propia del autor del presente componente.
+                    p.mb-0 #[b Nota aclaratoria:] las tablas que se toman como referencia en los ejemplos en cada uno de los temas desarrollados, elaboradas mediante el programa Excel, son derivadas de los mismos; por lo tanto, no se enumeran y la elaboración es propia del autor del presente componente.
             .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/intro/img1.svg', alt='', style="width: 400px").m-auto
