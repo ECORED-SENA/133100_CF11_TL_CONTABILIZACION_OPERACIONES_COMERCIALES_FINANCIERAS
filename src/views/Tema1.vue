@@ -497,7 +497,7 @@
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #008D8E")
                       |
-                      p.mb-0 Dar al trabajador que lo solicite, a la expiración deL contrato, una certificación en que consten el tiempo de servicio, la índole de la labor y el salario devengado; e igualmente, si el trabajador lo solicita, hacerle practicar examen sanitario y darle certificación sobre el particular, si al ingreso o durante la permanencia en el trabajo hubiere sido sometido a examen médico. Se considera que el trabajador, por su culpa, elude, dificulta o dilata el examen cuando, transcurridos cinco (5) días a partir de su retiro, no se presenta donde el médico respectivo para la práctica del examen, a pesar de haber recibido la orden correspondiente.
+                      p.mb-0 Dar al trabajador que lo solicite, a la expiración del contrato, una certificación en que consten el tiempo de servicio, la índole de la labor y el salario devengado; e igualmente, si el trabajador lo solicita, hacerle practicar examen sanitario y darle certificación sobre el particular, si al ingreso o durante la permanencia en el trabajo hubiere sido sometido a examen médico. Se considera que el trabajador, por su culpa, elude, dificulta o dilata el examen cuando, transcurridos cinco (5) días a partir de su retiro, no se presenta donde el médico respectivo para la práctica del examen, a pesar de haber recibido la orden correspondiente.
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img14.png", alt="", style="width: 400px").m-auto

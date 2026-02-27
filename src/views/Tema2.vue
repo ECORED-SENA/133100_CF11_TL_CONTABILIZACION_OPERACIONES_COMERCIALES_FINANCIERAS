@@ -200,7 +200,7 @@
                     i.fas.fa-circle-check(style="color: #008D8E")
                     |
                     p.mb-0 HEDN: recargo 150 %, su liquidación V.H.O (valor hora ordinaria) x 250 %.
-    p.mb-4(data-aos="fade-right") V.H.O. Corresponde al valor ordinario de la hora, se determina dividiendo el salario mensual entre 240, que son las horas que deben trabajar de acuerdo con la jornada laboral máxima legal, que es de 8 horas, y como el mes para efectos laborales se entiende 30 días, tenemos que 30 x 8 = 240. (Gerencie, 2020).
+    p.mb-4(data-aos="fade-right") V.H.O. Corresponde al valor ordinario de la hora; se determina dividiendo el salario mensual entre 240, que son las horas que deben trabajar de acuerdo con la jornada laboral máxima legal, que es de 8 horas, y como el mes para efectos laborales se entiende 30 días, tenemos que 30 x 8 = 240. (Gerencie, 2020).
     .row
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
         figure
@@ -656,7 +656,7 @@
               .lista-ol--cuadro__vineta.v--green
                 span 1
               |
-              p.mb-0 Planilla de novedades del periodo (horas extras, recargos, bonificaciones, comisiones, entre otras.
+              p.mb-0 Planilla de novedades del periodo (horas extras, recargos, bonificaciones, comisiones, entre otras)
             li.d-flex
               .lista-ol--cuadro__vineta.v--green
                 span 2
