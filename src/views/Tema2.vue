@@ -422,6 +422,11 @@
       p.mb-0 #[b Figura 1.] Resumen prestaciones sociales
     figure.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/tema2/img17.svg', alt='El esquema detalla las prestaciones sociales o beneficios para empleados en Colombia, incluyendo cesantías, intereses sobre cesantías, prima de servicios y vacaciones. Cada una tiene una provisión mensual y una fórmula de pago. Por ejemplo, las cesantías se provisionan al 8.33% del devengado mensual y se pagan según la fórmula (Salario Base * Días Trabajados)/360.', style='width: 650px').m-auto
+    Separador
+    #t_2_7
+    .titulo-segundo.color-acento-contenido
+      h2 2.7 Retenciones a salarios    
+    
     p.mb-4(data-aos="fade-right") En Colombia, los ingresos laborales o por salarios están sometidos a retención en la fuente a título de renta, con una tarifa progresiva según el monto del salario sujeto a retención en la fuente. (Gerencie, 2020b).
     .row.bg-c17.mb-5
       .col-12
@@ -540,11 +545,12 @@
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.gerencie.com/retencion-en-la-fuente-por-ingresos-laborales.html#Procedimientos_de_retencion_en_la_fuente_por_salarios" target="_blank")
                 span(style="color: #12263F") Ir al sitio web
-                i.fas.fa-link(style="color: #12263F")
+                i.fas.fa-link(style="color: #12263F")    
     Separador
-    #t_2_7
+    #t_2_8
     .titulo-segundo.color-acento-contenido
-      h2 2.7 Retenciones a salarios
+      h2 2.8 Salario integral
+    p.mb-4(data-aos="fade-down") Corresponde al reporte periódico y detallado de las diferentes situaciones laborales que se presentan en la nómina y que tienen efecto directo en la liquidación; entre ellas están:
     p(data-aos="fade-right") Es una forma de remuneración que incluye prestaciones sociales, recargos nocturnos, dominical y festivo, y el trabajo extra, es decir, integra todos los conceptos en uno solo; no incluye vacaciones. (Gerencie, 2021c).
     p.mb-4(data-aos="fade-right") #[b El salario integral es regulado por el artículo 132 del CST, así:]
     .row.justify-content-center.mb-4
@@ -593,9 +599,9 @@
                   |
                   p.mb-0 Cotizar a la seguridad social y aportes parafiscales sobre el 70 % (Salud, Pensión, ARL, SENA, ICBF y caja de compensación).
     Separador
-    #t_2_8
+    #t_2_9
     .titulo-segundo.color-acento-contenido
-      h2 2.8 Novedades
+      h2 2.9 Novedades
     p.mb-4(data-aos="fade-down") Corresponde al reporte periódico y detallado de las diferentes situaciones laborales que se presentan en la nómina y que tienen efecto directo en la liquidación; entre ellas están:
     .row
       .col-lg-auto.mb-4.mb-lg-0.pe-lg-0(data-aos="fade-right")
@@ -643,9 +649,9 @@
                   |
                   p.mb-0 Bonificaciones, comisiones, entre otros.
     Separador
-    #t_2_9
+    #t_2_10
     .titulo-segundo.color-acento-contenido
-      h2 2.9 Liquidación de nómina
+      h2 2.10 Liquidación de nómina
     p.mb-4(data-aos="fade-down") Proceso mediante el cual se determina el valor a pagar por concepto de: salarios, prestaciones sociales, seguridad social y parafiscales, dependiendo de la periodicidad en cada entidad (semanal, quincenal o mensual).
     .row.mb-5
       .col-lg-7.order-2.order-lg-1(data-aos="fade-right")
