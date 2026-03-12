@@ -12,7 +12,7 @@
         .px-5
           figure.mb-4(data-aos="fade-down")
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/wGMMPB3ZdXM?si=mtMiafjeNFBLVGro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/TghZAgdA_wY?si=1SAJNtT4RqEuaXna" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           .row
             .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
               .p-4.bg-c4
@@ -751,7 +751,7 @@
     p.mb-4(data-aos="fade-right") Cuando un contrato de trabajo se termina sin una causa justificada, la parte responsable debe pagar una indemnización a la otra. Esta compensación busca cubrir los perjuicios causados por la terminación y puede incluir tanto lo que la persona dejó de recibir (lucro cesante) como los gastos adicionales generados (daño emergente).
     figure(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Vo2C_w6H1pE?si=yii0bcWVEIfrwG7L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/EqvUnXCwt58?si=2WTvZiz_ed58MegS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
  
 </template>
 
