@@ -36,40 +36,40 @@
                 p #[b PRINCIPIOS GENERALES]
                 p.mb-0 #[b PRIMERA PARTE]
                 p.mb-0 DERECHO INDIVIDUAL DEL TRABAJO
-                p.mb-0 #[b TITULO I.]
+                p.mb-0 #[b TÍTULO I.]
                 p.mb-0 CONTRATO
                 p.mb-0 INDIVIDUAL DE TRABAJO
-                p.mb-0 #[b TITULO II.]
+                p.mb-0 #[b TÍTULO II.]
                 p.mb-0 PERIODO DE PRUEBA Y APRENDIZAJE
-                p.mb-0 #[b TITULO III.]
+                p.mb-0 #[b TÍTULO III.]
                 p.mb-0 CONTRATO DE TRABAJO CON DETERMINADOS
                 p.mb-0 TRABAJADORES
-                p.mb-0 #[b TITULO VI.]
+                p.mb-0 #[b TÍTULO VI.]
                 p.mb-0 JORNADA DE TRABAJO
-                p.mb-0 #[b TITULO VII.]
+                p.mb-0 #[b TÍTULO VII.]
                 p.mb-0 DESCANSOS OBLIGATORIOS
-                p.mb-0 #[b TITULO VIII.]
+                p.mb-0 #[b TÍTULO VIII.]
                 p.mb-0 PRESTACIONES PATRONALES COMUNES
-                p.mb-0 #[b TITULO IX.]
+                p.mb-0 #[b TÍTULO IX.]
                 p.mb-0 PRESTACIONES PATRONALES ESPECIALES
-                p.mb-0 #[b TITULO X.]
+                p.mb-0 #[b TÍTULO X.]
                 p.mb-0 NORMAS PROTECTORAS DE LAS PRESTACIONES
-                p.mb-0 #[b TITULO XI.]
+                p.mb-0 #[b TÍTULO XI.]
                 p HIGIENE Y SEGURIDAD EN EL TRABAJO
                 p.mb-0 #[b SEGUNDA PARTE]
                 p.mb-0 DERECHO COLECTIVO DEL TRABAJO
-                p.mb-0 #[b TITULO I.]
+                p.mb-0 #[b TÍTULO I.]
                 p.mb-0 SINDICATOS
-                p.mb-0 #[b TITULO II.]
+                p.mb-0 #[b TÍTULO II.]
                 p.mb-0 CONFLICTOS COLECTIVOS DE TRABAJO
-                p.mb-0 #[b TITULO III.]
-                p.mb-0 CONVENCIONES PACTOS COLECTIVOS Y CONTRATOS
+                p.mb-0 #[b TÍTULO III.]
+                p.mb-0 CONVENCIONES, PACTOS COLECTIVOS Y CONTRATOS
                 p SINDICALES
                 p.mb-0 #[b TERCERA PARTE]
                 p.mb-0 VIGILANCIA, CONTROL Y DISPOSICIONES FINALES
-                p.mb-0 #[b TITULO I.]
+                p.mb-0 #[b TÍTULO I.]
                 p.mb-0 VIGILANCIA Y CONTROL
-                p.mb-0 #[b TITULO II.]
+                p.mb-0 #[b TÍTULO II.]
                 p.mb-0 DISPOSICIONES FINALES
     .tarjeta.bg-c6.p-3(data-aos="fade-down")
       .row.justify-content-around.align-items-center
@@ -79,7 +79,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.txt-c1.mb-1 Código Sustantivo del Trabajo
-              p.text-white.mb-0 Es de resaltar la importancia de conocer el contenido del CST, para ello se invita a observar su estructura general a través del siguiente enlace:
+              p.text-white.mb-0 Es de resaltar la importancia de conocer el contenido del CST, para ello se invita a observar su estructura general a través del siguiente enlace web:
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=33104" target="_blank")
                 span(style="color: #12263F") Ir al sitio web
@@ -312,65 +312,78 @@
               thead
                 tr
                   th(width="10%")
-                  th(width="25%") Clase de contrato
-                  th(width="10%") No.
-                  th Características generales
+                  th(width="25%").txt-p1 Clase de contrato
+                  th(width="10%").txt-p1 No.
+                  th.txt-p1 Características generales
               tbody.bg-white
                 tr
                   td 1
                   td.txt-p1 Accidental o transitorio
                   td 
-                  td.txt-p1 Contratos inferiores a un año, solo se podrán prorrogar hasta tres veces por periodos iguales o inferiores.
-                tr.bg-c15
-                  td 
-                  td.txt-p1 
-                  td 
-                  td.txt-p1 Derecho al pago de prestaciones sociales en proporción al tiempo laborado.
-                tr
-                  td 
-                  td.txt-p1 
-                  td 
-                  td.txt-p1 Empleador puede terminar el contrato reconociendo indemnización, según la ley.
+                  td.txt-p1
+                    ul.lista-ul--color.mb-0
+                      li.d-flex
+                        i.fas.fa-circle-check(style="color: #008D8E")
+                        |
+                        p.mb-0 Contratos inferiores a un año, solo se podrán prorrogar hasta tres veces por periodos iguales o inferiores.
+                      li.d-flex
+                        i.fas.fa-circle-check(style="color: #008D8E")
+                        |
+                        p.mb-0 Derecho al pago de prestaciones sociales en proporción al tiempo laborado.
+                      li.d-flex
+                        i.fas.fa-circle-check(style="color: #008D8E")
+                        |
+                        p.mb-0 Empleador puede terminar el contrato reconociendo indemnización, según la ley.
                 tr.bg-c15
                   td 2
                   td.txt-p1 De obra o labor
                   td 
-                  td.txt-p1 La duración del contrato debe ser inferior a un mes.
-                tr
-                  td 
-                  td.txt-p1 
-                  td 
-                  td.txt-p1 Las partes no determinan su duración.
-                tr.bg-c15
-                  td 
-                  td.txt-p1 
-                  td 
-                  td.txt-p1 No devengan prestaciones sociales.
+                  td.txt-p1
+                    ul.lista-ul--color.mb-0
+                      li.d-flex
+                        i.fas.fa-circle-check(style="color: #008D8E")
+                        |
+                        p.mb-0 La duración del contrato debe ser inferior a un mes.
+                      li.d-flex
+                        i.fas.fa-circle-check(style="color: #008D8E")
+                        |
+                        p.mb-0 Las partes no determinan su duración.
+                      li.d-flex
+                        i.fas.fa-circle-check(style="color: #008D8E")
+                        |
+                        p.mb-0 No devengan prestaciones sociales.
                 tr
                   td 3
                   td.txt-p1 A término fijo
                   td 
-                  td.txt-p1 No requieren celebrarse por escrito.
-                tr.bg-c15
-                  td 
-                  td.txt-p1 
-                  td 
-                  td.txt-p1 Se usan para realizar un trabajo ocasional que no tiene relación con las actividades normales del empleador.
-                tr
-                  td 
-                  td.txt-p1 
-                  td 
-                  td.txt-p1 Son usuales para ejecutar una labor u obra específica.
+                  td.txt-p1
+                    ul.lista-ul--color.mb-0
+                      li.d-flex
+                        i.fas.fa-circle-check(style="color: #008D8E")
+                        |
+                        p.mb-0 No requieren celebrarse por escrito.
+                      li.d-flex
+                        i.fas.fa-circle-check(style="color: #008D8E")
+                        |
+                        p.mb-0 Se usan para realizar un trabajo ocasional que no tiene relación con las actividades normales del empleador.
+                      li.d-flex
+                        i.fas.fa-circle-check(style="color: #008D8E")
+                        |
+                        p.mb-0 Son usuales para ejecutar una labor u obra específica.
                 tr.bg-c15
                   td 4
                   td.txt-p1 A término indefinido
                   td 
-                  td.txt-p1 Su duración no puede exceder los tres años.
-                tr
-                  td 
-                  td.txt-p1 
-                  td 
-                  td.txt-p1 Tiene un término equivalente a la duración de la obra o labor encomendada.
+                  td.txt-p1
+                    ul.lista-ul--color.mb-0
+                      li.d-flex
+                        i.fas.fa-circle-check(style="color: #008D8E")
+                        |
+                        p.mb-0 Su duración no puede exceder los tres años.
+                      li.d-flex
+                        i.fas.fa-circle-check(style="color: #008D8E")
+                        |
+                        p.mb-0 Tiene un término equivalente a la duración de la obra o labor encomendada.
           p.mb-4(data-aos="fade-right") #[b Una vez realizada la tabla de ejemplo, se debe comparar con las siguientes respuestas:]
           .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-down")
             p.mb-0 #[b Tabla 2.] Tipos de contrato laboral en Colombia
@@ -379,9 +392,9 @@
               thead
                 tr
                   th(width="10%")
-                  th(width="25%") Clase de contrato
-                  th(width="10%") No.
-                  th Características generales
+                  th(width="25%").txt-p1 Clase de contrato
+                  th(width="10%").txt-p1 No.
+                  th.txt-p1 Características generales
               tbody.bg-white
                 tr
                   td 1

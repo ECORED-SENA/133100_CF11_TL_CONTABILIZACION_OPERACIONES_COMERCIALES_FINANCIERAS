@@ -147,7 +147,7 @@
                     figure
                       img(src="@/assets/curso/tema2/img12.svg", alt="", style="width: 100px").m-auto
                   .col
-                    p.mb-0 #[b Hora extra ordinaria diurna “HEOD”.] La hora extra diurna es la que se labora luego de la jornada laboral, y entre las 6 de la mañana y las 9 de la noche.
+                    p.mb-0 #[b Hora extraordinaria diurna “HEOD”.] La hora extra diurna es la que se labora luego de la jornada laboral, y entre las 6 de la mañana y las 9 de la noche.
             .col-lg-6.mb-4
               .p-4.bg-c4.h-100.shadow
                 .row.align-items-center
@@ -155,7 +155,7 @@
                     figure
                       img(src="@/assets/curso/tema2/img12.svg", alt="", style="width: 100px").m-auto
                   .col
-                    p.mb-0 #[b Hora extra ordinaria nocturna “HEON”.] La hora extra nocturna es la que se labora luego de la jornada laboral, y entre las 9 de la noche y las 6 de la mañana.
+                    p.mb-0 #[b Hora extraordinaria nocturna “HEON”.] La hora extra nocturna es la que se labora luego de la jornada laboral, y entre las 9 de la noche y las 6 de la mañana.
             .col-lg-6.mb-4
               .p-4.bg-c4.h-100.shadow
                 .row.align-items-center
@@ -346,54 +346,54 @@
               figure
                 img(src="@/assets/curso/tema2/img8.png", alt="", style="width: 400px").m-auto
     .row.justify-content-center.mb-4
-      .col-lg-8
+      .col-lg-9
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-down")
           p.mb-0 #[b Tabla 3.] Aportes a la seguridad social y parafiscales
         .tabla-a.color-acento-botones(data-aos="fade-left")
           table
             thead
               tr
-                th Tipo de aporte
-                th % Aporte empleado
-                th % Aporte empleado
-                th % Total aporte
+                th.txt-p1 Tipo de aporte
+                th.txt-p1 % Aporte empleador
+                th.txt-p1 % Aporte empleado
+                th.txt-p1 % Total aporte
             tbody.bg-white
               tr
-                td #[b Salud]
-                td 8,5 %
-                td 4 %
-                td 12.5 %
+                td.txt-p1 #[b Salud]
+                td.txt-p1 8,5 %
+                td.txt-p1 4 %
+                td.txt-p1 12.5 %
               tr.bg-c15
-                td #[b Pensión]
-                td 12 %
-                td 4 %
-                td 16 %
+                td.txt-p1 #[b Pensión]
+                td.txt-p1 12 %
+                td.txt-p1 4 %
+                td.txt-p1 16 %
               tr
-                td #[b ARL]
-                td 0,522 %
-                td 0 %
-                td 0.522 %
+                td.txt-p1 #[b ARL]
+                td.txt-p1 0,522 %
+                td.txt-p1 0 %
+                td.txt-p1 0.522 %
               tr.bg-c15
-                td #[b Fondo de solidaridad]
-                td 0 %
-                td 1 %
-                td 1 %
+                td.txt-p1 #[b Fondo de solidaridad]
+                td.txt-p1 0 %
+                td.txt-p1 1 %
+                td.txt-p1 1 %
               tr
-                td #[b Caja de compensación]
-                td 4 %
-                td 0 %
-                td 4 %
+                td.txt-p1 #[b Caja de compensación]
+                td.txt-p1 4 %
+                td.txt-p1 0 %
+                td.txt-p1 4 %
               tr.bg-c15
-                td #[b ICBF]
-                td 3 %
-                td 0 %
-                td 3 %
+                td.txt-p1 #[b ICBF]
+                td.txt-p1 3 %
+                td.txt-p1 0 %
+                td.txt-p1 3 %
               tr
-                td #[b SENA]
-                td 2 %
-                td 0 %
-                td 2 %
-    p.mb-0(data-aos="fade-down") *ARL: La cotización de ARL varía según el riesgo al que se exponga cada trabajador y es pagada en su totalidad por el empleador. Los aportes varían entre un 0,348 % para el nivel I y un 8,7 % para el nivel V de riesgo. La tarifa más común es del 0,522 %.
+                td.txt-p1 #[b SENA]
+                td.txt-p1 2 %
+                td.txt-p1 0 %
+                td.txt-p1 2 %
+    p.mb-0(data-aos="fade-down") *ARL: la cotización de ARL varía según el riesgo al que se exponga cada trabajador y es pagada en su totalidad por el empleador. Los aportes varían entre un 0,348 % para el nivel I y un 8,7 % para el nivel V de riesgo. La tarifa más común es del 0,522 %.
     Separador
     #t_2_6
     .titulo-segundo.color-acento-contenido
@@ -470,53 +470,53 @@
                 table
                   thead
                     tr
-                      th(colspan="2", width="30%") Rangos en UVT
-                      th(rowspan="2", width="20%") Tarifa marginal
-                      th(rowspan="2") Retención en la fuente
+                      th(colspan="2", width="30%").txt-p1 Rangos en UVT
+                      th(rowspan="2", width="20%").txt-p1 Tarifa marginal
+                      th(rowspan="2").txt-p1 Retención en la fuente
                     tr
-                      th Desde
-                      th Hasta
+                      th.txt-p1 Desde
+                      th.txt-p1 Hasta
                   tbody.bg-white
                     tr
-                      td 0
-                      td 95
-                      td 0 %
-                      td 0
+                      td.txt-p1 0
+                      td.txt-p1 95
+                      td.txt-p1 0 %
+                      td.txt-p1 0
                     tr.bg-c15
-                      td > 96
-                      td 150
-                      td 19 %
-                      td (Ingreso laboral gravado expresado en UVT menos 95 UVT) x 19 %.
+                      td.txt-p1 > 96
+                      td.txt-p1 150
+                      td.txt-p1 19 %
+                      td.txt-p1 (Ingreso laboral gravado expresado en UVT menos 95 UVT) x 19 %.
                     tr
-                      td > 150
-                      td 360
-                      td 28 %
-                      td (Ingreso laboral gravado expresado en UVT menos 150 UVT) x 25 %.
+                      td.txt-p1 > 150
+                      td.txt-p1 360
+                      td.txt-p1 28 %
+                      td.txt-p1 (Ingreso laboral gravado expresado en UVT menos 150 UVT) x 25 %.
                     tr.bg-c15
-                      td > 301
-                      td 500
-                      td 35 %
-                      td (Ingreso laboral gravado expresado en UVT menos 150 UVT) x 28 % más 10 UVT.
+                      td.txt-p1 > 301
+                      td.txt-p1 500
+                      td.txt-p1 35 %
+                      td.txt-p1 (Ingreso laboral gravado expresado en UVT menos 150 UVT) x 28 % más 10 UVT.
                     tr
-                      td > 360
-                      td 640
-                      td 33 %
-                      td (Ingreso laboral gravado expresado en UVT menos 360 UVT) x 33 % más 69 UVT.
+                      td.txt-p1 > 360
+                      td.txt-p1 640
+                      td.txt-p1 33 %
+                      td.txt-p1 (Ingreso laboral gravado expresado en UVT menos 360 UVT) x 33 % más 69 UVT.
                     tr.bg-c15
-                      td > 640
-                      td 945
-                      td 35 %
-                      td (Ingreso laboral gravado expresado en UVT menos 640 UVT) x 35 % más 162 UVT.
+                      td.txt-p1 > 640
+                      td.txt-p1 945
+                      td.txt-p1 35 %
+                      td.txt-p1 (Ingreso laboral gravado expresado en UVT menos 640 UVT) x 35 % más 162 UVT.
                     tr
-                      td > 945
-                      td 2300
-                      td 37 %
-                      td (Ingreso laboral gravado expresado en UVT menos 945 UVT) x 37 % más 268 UVT.
+                      td.txt-p1 > 945
+                      td.txt-p1 2300
+                      td.txt-p1 37 %
+                      td.txt-p1 (Ingreso laboral gravado expresado en UVT menos 945 UVT) x 37 % más 268 UVT.
                     tr.bg-c15
-                      td > 2300
-                      td En adelante
-                      td 39 %
-                      td (Ingreso laboral gravado expresado en UVT menos 2300 UVT) x 39 % más 770 UVT.
+                      td.txt-p1 > 2300
+                      td.txt-p1 En adelante
+                      td.txt-p1 39 %
+                      td.txt-p1 (Ingreso laboral gravado expresado en UVT menos 2300 UVT) x 39 % más 770 UVT.
                 figcaption.mt-3 #[b Nota.] Tomada de Dussán (2019)
     .row.mb-4.ms-0
       .col-auto.bg-c8(data-aos="fade-left")
@@ -541,7 +541,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.txt-c1.mb-1 Enlace web. Retención en la fuente
-              p.text-white.mb-0 Para conocer estos métodos y determinar la retención en la fuente, visite el siguiente sitio web y a partir de diversos ejemplos que lo llevarán a una situación real de la aplicabilidad de estos, le será más claro.
+              p.text-white.mb-0 Para conocer estos métodos y determinar la retención en la fuente, visite el siguiente sitio web y a partir de diversos ejemplos que lo llevarán a una situación real de la aplicabilidad de estos, le invitamos a consultar el siguiente enlace web:
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.gerencie.com/retencion-en-la-fuente-por-ingresos-laborales.html#Procedimientos_de_retencion_en_la_fuente_por_salarios" target="_blank")
                 span(style="color: #12263F") Ir al sitio web
@@ -550,7 +550,6 @@
     #t_2_8
     .titulo-segundo.color-acento-contenido
       h2 2.8 Salario integral
-    p.mb-4(data-aos="fade-down") Corresponde al reporte periódico y detallado de las diferentes situaciones laborales que se presentan en la nómina y que tienen efecto directo en la liquidación; entre ellas están:
     p(data-aos="fade-right") Es una forma de remuneración que incluye prestaciones sociales, recargos nocturnos, dominical y festivo, y el trabajo extra, es decir, integra todos los conceptos en uno solo; no incluye vacaciones. (Gerencie, 2021c).
     p.mb-4(data-aos="fade-right") #[b El salario integral es regulado por el artículo 132 del CST, así:]
     .row.justify-content-center.mb-4
@@ -597,7 +596,7 @@
                 li.d-flex
                   i.fas.fa-circle-check(style="color: #008D8E")
                   |
-                  p.mb-0 Cotizar a la seguridad social y aportes parafiscales sobre el 70 % (Salud, Pensión, ARL, SENA, ICBF y caja de compensación).
+                  p.mb-0 Cotizar a la seguridad social y aportes parafiscales sobre el 70 % (salud, pensión, ARL, SENA, ICBF y caja de compensación).
     Separador
     #t_2_9
     .titulo-segundo.color-acento-contenido

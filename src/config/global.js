@@ -140,11 +140,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+      //{
+      //  nombreRuta: 'complementario',
+      //  icono: 'far fa-folder-open',
+      //  titulo: 'Material complementario',
+      //},
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -153,7 +153,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/133100_CF11_DU.pdf',
+        download: 'downloads/123103_CF11_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -170,19 +170,9 @@ export default {
   complementario: [
     {
       tema: 'Legislación laboral',
-      referencia:
-        'Decreto 1072 de 2015. [Ministerio del Trabajo]. <i>Por medio del cual se expide el Decreto Único Reglamentario del Sector Trabajo</i>. Mayo 26 de 2015 (versión actualizada abril 15 de 2016). ',
-      tipo: 'Decreto',
-      link:
-        'https://www.mintrabajo.gov.co/documents/20147/0/DUR+Sector+Trabajo+Actualizado+a+15+de+abril++de+2016.pdf/a32b1dcf-7a4e-8a37-ac16-c121928719c8',
-    },
-    {
-      tema: 'Liquidación de nómina',
-      referencia:
-        'Angulo, U. (2018). <i>Contabilidad financiera, correlacionado con NIIF. (2ª ed.). Ediciones de la U</i>.',
-      tipo: 'Libro',
-      link:
-        'https://api.pageplace.de/preview/DT0400.9789587628876_A41151132/preview-9789587628876_A41151132.pdf',
+      referencia: '',
+      tipo: '',
+      link: '',
     },
   ],
   glosario: [
@@ -297,8 +287,7 @@ export default {
     {
       referencia:
         'Hernandez, C. (2015, 9 noviembre). <i>¿Cuáles son las justas causas que tiene el empleador para dar por terminado el contrato de trabajo?</i> Instituto Nacional de Contadores Públicos de Colombia. ',
-      link:
-        'https://incp.org.co/cuales-son-las-justas-causas-que-tiene-el-empleador-para-dar-por-terminado-el-contrato-de-trabajo/',
+      link: '',
     },
     {
       referencia:
@@ -352,7 +341,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Líder del ecosistema',
-          centro: ' Centro Agroturístico- Regional Santander',
+          centro: ' Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermudez Jaimes',
